@@ -54,6 +54,8 @@ VITE_ACCESS_TOKEN=your_jwt_token_here
 Django>=3.2,<5.0
 djangorestframework>=3.13.0
 djangorestframework-simplejwt>=5.2.2
+python-dotenv
+django-cors-headers
 psycopg2-binary
 ```
 
